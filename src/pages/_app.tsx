@@ -4,6 +4,9 @@ import '@/styles/bootstrap-grid.min.css'
 import '@/styles/style.css'
 import '@/styles/responsive.css'
 import '@/styles/demo.css'
+
+import 'react-slideshow-image/dist/styles.css'
+
 // import '@/styles/settings.css'
 // import '@/styles/settings-ver.5.2.3.css'
 
