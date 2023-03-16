@@ -24,7 +24,7 @@ export default function Home() {
 				<div id='wrapper' className='wrapper-container'>
 					<nav id='mobile-advanced' className='mobile-advanced'></nav>
 					<Header />
-					{/* <Slider /> */}
+					<Slider />
 				</div>
 				<div id='content'>
 					{/* Three column introduction  */}
