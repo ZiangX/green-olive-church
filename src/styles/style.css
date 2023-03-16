@@ -1708,7 +1708,7 @@ button.search-button:before{content: "\e922";}
 /* Breadcrumbs */
 
 .breadcrumbs-wrap{
-  padding: 56px 15px;
+  padding: 30px 15px 45px 15px;
   background: #f7f7f7;
   text-align: center;
 }
