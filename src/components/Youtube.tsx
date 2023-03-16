@@ -7,7 +7,7 @@ const Youtube = () => {
 			<div className='breadcrumbs-wrap'>
 				<div className='container'>
 					<h3 className='page-title' style={{ fontSize: '35px' }}>
-						Youtube
+						往期视频
 					</h3>
 					<div className='video-gallery flex-row item-col-1'>
 						<div className='item-col'>
