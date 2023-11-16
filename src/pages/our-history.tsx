@@ -1,6 +1,6 @@
-import Head from 'next/head';
+import Head from 'next/head'
 
-import Header from '@/components/Header';
+import Header from '@/components/Header'
 
 const OurHistory = () => {
 	return (
@@ -12,7 +12,7 @@ const OurHistory = () => {
 			</Head>
 			<Header />
 
-			<div id='content' className='page-content-wrap history' style={{ paddingTop: '150px'}}>
+			<div id='content' className='page-content-wrap history' style={{ paddingTop: '150px' }}>
 				<div className='container wide'>
 					<div className='row'>
 						<main id='main' className='col-lg-9'>
@@ -34,7 +34,7 @@ const OurHistory = () => {
 											2013年10月，青橄榄团契正式开始每两周一次的聚会，包括圣经学习、专题讲座和见证分享等活动。2015年，为满足大家的团契需求，聚会由两周一次改为一周一次。
 										</p>
 										<p>
-											感谢神！神兴起了这项事工，神也让我们这服侍他的人经历衪美好的预备。场地的预备：神感动了热心人士无偿为我们提供聚会的场地；同工的预备：我们有一直委身在团契中服事的何刚长老，王蕊姊妹和张歆姊妹，还有在2017年8月加入同工服侍团队的来自晨光教会的靳天聪牧师和李彦葳师母。
+											感谢神！神兴起了这项事工，神也让我们这服侍他的人经历衪美好的预备。场地的预备：神感动了热心人士无偿为我们提供聚会的场地；同工的预备：我们有一直委身在团契中服事的何刚长老，王蕊姊妹和张歆姊妹，还有在2017年8月加入同工服侍团队的来自晨光教会的靳天骢牧师和李彦葳师母。
 										</p>
 										<p>
 											“青橄榄团契”在神的带领和祝福及各位同工和同学们的共同努力下，从成立之初只有一两位学生，到如今每次聚会的人数都在平均35人以上。团契的学生主要是来自康大、麦大、蒙大、魁大的学生及一些大专生、职业培训学生和高中生。引人入胜的讨论式圣经学习，受到同学们的欢迎和喜爱，同学们对神的话语更加的渴慕，在教会里有更进深地成长，并用神所赐的恩赐投入到教会的服侍里面。除了在教会里面的服侍，在中信举办的活动中，也看到了小橄榄们的身影，“爱传送”探访、与短宣队同工、福音街唱等；我们还不定期举办一些户外活动，来建立团契，丰富同学们的留学生活。一步一步，我们看到同学们的成长和变化，有的年轻人不再沉迷于吸烟、游戏和其它的坏习惯，而是愿意克服软弱，努力学习。
@@ -93,7 +93,7 @@ const OurHistory = () => {
 				</div>
 			</div>
 		</>
-	);
-};
+	)
+}
 
-export default OurHistory;
+export default OurHistory
