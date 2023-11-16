@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const FellowshipTime = () => (
 	<div className='icons-box style-2 flex-row no-gutters item-col-4'>
@@ -7,7 +7,7 @@ const FellowshipTime = () => (
 			<div className='icons-item'>
 				<div className='item-box'>
 					<h4 className='icons-box-title'>祷告会</h4>
-					<p>每周六 18:00-19:00</p>
+					<p>每周天 12:00-12:30</p>
 				</div>
 			</div>
 		</div>
@@ -39,6 +39,6 @@ const FellowshipTime = () => (
 			</div>
 		</div>
 	</div>
-);
+)
 
-export default FellowshipTime;
+export default FellowshipTime
