@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Location = () => {
 	return (
@@ -7,7 +7,7 @@ const Location = () => {
 			<div className='flex-row'>
 				<div className='col-md-3 offset-md-3'>
 					<iframe
-						src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5593.453700704849!2d-73.57982!3d45.495445!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a6aff8c8015%3A0x7347e112108554be!2s1625%20Boul.%20de%20Maisonneuve%20Ouest%2C%20Montr%C3%A9al%2C%20QC%20H3H%202N4!5e0!3m2!1sen!2sca!4v1663284550187!5m2!1sen!2sca'
+						src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.7813690302423!2d-73.58102922326873!3d45.49434723142599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a6bc133a3bf%3A0xe6a2fa3ba013c8e!2s1610%20Saint-Catherine%20St%20W%2C%20Montreal%2C%20QC%20H3H%201L9!5e0!3m2!1sen!2sca!4v1700095634724!5m2!1sen!2sca'
 						width='400'
 						height='300'
 						style={{ border: '0' }}
@@ -20,9 +20,9 @@ const Location = () => {
 					<p className='info-item'>
 						<span>Address:</span>
 						<span>
-							<br /> 1625 Boulevard de Maisonneuve O #405
-							<br /> code: 0405 （Jade College）
-							<br /> Montréal, QC H3H 2N4
+							<br /> Classroom B055
+							<br /> 1610 St. Catherine West
+							<br /> Montréal, QC H3H 1L9
 						</span>
 					</p>
 					<p className='info-item'>
@@ -31,7 +31,7 @@ const Location = () => {
 				</div>
 			</div>
 		</div>
-	);
-};
+	)
+}
 
-export default Location;
+export default Location
